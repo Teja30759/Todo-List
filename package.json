@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   
-  "homepage": "https://Teja30759.github.io/newapp",
+  "homepage": "https://Teja30759.github.io/Todo-List",
 
   "scripts": {
     "dev": "vite",
